@@ -88,7 +88,7 @@ input[type='number'] {
 }
 .btn:focus,
 .delete-btn:focus {
-	outline: ;
+	outline: 0;
 }
 .list {
 	list-style-type: none;
