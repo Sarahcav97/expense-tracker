@@ -3,9 +3,7 @@
 ## Description
 This application allows the user track their income and expenses.
 
-## Screenshots
-
-### Homepage
+## Screenshot
 ![](assets/screenshot1.png)
 
 ## Links
